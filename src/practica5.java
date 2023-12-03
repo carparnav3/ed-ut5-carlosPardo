@@ -22,6 +22,7 @@ public class practica5 {
         int resultado = primerNumero * segundoNumero;
 
         System.out.println("El resultado de la multiplicacion es: " + resultado);
+        System.out.println("Hola Soy Alberto Alonso");
     }
 }
 

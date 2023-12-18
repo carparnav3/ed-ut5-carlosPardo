@@ -23,6 +23,7 @@ public class practica5 {
 
         System.out.println("El resultado de la multiplicacion es: " + resultado);
         System.out.println("Hola Soy Alberto Alonso");
+        System.out.println("Hola Soy Jose Angel");
     }
 }
 
